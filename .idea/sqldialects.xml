@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://E:/console_5.sql" dialect="PostgreSQL" />
+    <file url="file://F:/Восстановление 30.11.2022/DataGrip2022.2/consoles/db/6ae2619c-8aa4-4ade-8e64-570e2ada1e30/console_3.sql" dialect="Greenplum" />
+    <file url="file://H:/found.000/00000000-dir0000.chk/dir2336.chk/JetBrains/DataGrip2022.2/consoles/db/40b7e9bc-ceff-494b-9954-4864e84a791c/console_2.sql" dialect="PostgreSQL" />
+  </component>
+</project>
