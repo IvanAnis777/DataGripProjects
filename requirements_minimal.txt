@@ -1,0 +1,29 @@
+# Основные зависимости для data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Работа с Excel файлами
+openpyxl>=3.1.0
+
+# База данных
+psycopg2-binary>=2.8.6
+SQLAlchemy>=2.0.0
+
+# NLP для русского языка (используется в некоторых notebook-ах)
+natasha>=1.6.0
+pymorphy2>=0.9.1
+spacy>=3.7.0
+
+# Утилиты
+tqdm>=4.65.0
+python-dateutil>=2.8.0
+
+# Безопасность и окружение
+python-dotenv>=1.0.0
+
+# Разработка и тестирование
+pytest>=7.4.0
+pytest-mock>=3.11.0
+
+# Логирование и мониторинг
+rich>=13.0.0 
